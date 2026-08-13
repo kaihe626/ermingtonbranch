@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ALP Ermington Branch//Branch Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:motionwriting-20261024@ermington.alp
+DTSTAMP:20260813T000000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Motion-writing session with David Dobson - ALP Ermington Branch
+LOCATION:Location to be confirmed
+DESCRIPTION:Motion-writing session with David Dobson. Time and location to be confirmed. Hosted by the ALP Ermington Branch. Questions: Ermingtonbranch@gmail.com
+END:VEVENT
+END:VCALENDAR
