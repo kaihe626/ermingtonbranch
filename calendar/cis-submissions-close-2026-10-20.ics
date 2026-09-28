@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ALP Ermington Branch//Branch Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cis-submissions-20261020@ermington.alp
+DTSTAMP:20260928T000000Z
+DTSTART:20261020T050000Z
+DTEND:20261020T060000Z
+SUMMARY:Community Infrastructure Strategy submissions close 5pm
+LOCATION:City of Parramatta
+DESCRIPTION:City of Parramatta Draft Community Infrastructure Strategy 2026-2046 public exhibition closes at 5pm. Ermington Branch working group: https://chat.whatsapp.com/Hfrtgb2ub563OJi67CVxsB
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:CIS submissions close in 2 days
+END:VALARM
+END:VEVENT
+END:VCALENDAR
