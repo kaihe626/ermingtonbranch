@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ermington Branch ALP//EDM//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ermington-meeting-29oct2026@ermingtonbranch
+DTSTAMP:20261022T000000Z
+DTSTART:20261029T073000Z
+DTEND:20261029T083000Z
+SUMMARY:Ermington Branch meeting
+DESCRIPTION:October Ermington Branch meeting. Floor Talk from Aral Noyan.
+LOCATION:PHIVE\, BM.02 Medium Meeting Room\, 5 Parramatta Square\, Parramatta NSW 2150
+END:VEVENT
+END:VCALENDAR
