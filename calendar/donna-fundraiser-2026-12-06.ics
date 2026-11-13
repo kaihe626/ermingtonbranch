@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ermington Branch ALP//EDM//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:donna-fundraiser-06dec2026@ermingtonbranch
+DTSTAMP:20261113T000000Z
+DTSTART:20261206T040000Z
+DTEND:20261206T070000Z
+SUMMARY:Chaat\, Chai and Trivia - Donna Davis MP campaign fundraiser
+DESCRIPTION:Hosted by Donna Davis MP and the Hon. Nathan Rees. Tickets: https://www.nswlabor.org.au/event_06122026
+LOCATION:Parramatta Mission\, 119 Macquarie Street\, Parramatta NSW 2150
+END:VEVENT
+END:VCALENDAR

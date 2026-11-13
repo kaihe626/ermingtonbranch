@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ermington Branch ALP//EDM//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:jack-ferguson-lecture-15nov2026@ermingtonbranch
+DTSTAMP:20261111T000000Z
+DTSTART:20261115T050000Z
+DTEND:20261115T070000Z
+SUMMARY:Jack Ferguson Memorial Lecture - Andrew Charlton MP
+DESCRIPTION:The 2026 Jack Ferguson Memorial Lecture\, delivered by Andrew Charlton MP.
+LOCATION:Innovation Quarter\, Westmead
+END:VEVENT
+END:VCALENDAR

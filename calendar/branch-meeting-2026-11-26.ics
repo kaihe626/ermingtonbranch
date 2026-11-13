@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ermington Branch ALP//EDM//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ermington-meeting-26nov2026@ermingtonbranch
+DTSTAMP:20261111T000000Z
+DTSTART:20261126T070000Z
+DTEND:20261126T100000Z
+SUMMARY:Ermington Branch Christmas meeting
+DESCRIPTION:6pm short Branch meeting at PHIVE. 7pm Christmas Markets and dinner in Parramatta Square. 8pm Christmas tree lighting.
+LOCATION:PHIVE\, 5 Parramatta Square\, Parramatta NSW 2150
+END:VEVENT
+END:VCALENDAR

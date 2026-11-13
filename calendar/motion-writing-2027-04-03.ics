@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ermington Branch ALP//EDM//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:motion-writing-03apr2027@ermingtonbranch
+DTSTAMP:20261111T000000Z
+DTSTART:20270402T220000Z
+DTEND:20270403T040000Z
+SUMMARY:Writing Effective Motions - ALP Ermington Branch
+DESCRIPTION:Hands-on workshop on writing branch motions. Expressions of interest to Ermingtonbranch@gmail.com.
+LOCATION:Quarry Room\, Vikings Sports Club
+END:VEVENT
+END:VCALENDAR
